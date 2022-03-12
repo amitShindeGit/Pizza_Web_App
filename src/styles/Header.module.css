@@ -1,0 +1,21 @@
+.nav{
+    list-style: none;
+    margin: 0;
+    padding: .5rem;
+    overflow: hidden;
+    background: linear-gradient(to right, #67b26f, #4ca2cd);
+    border-bottom-left-radius: .5rem;
+    border-bottom-right-radius: .5rem;
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+
+}
+
+.list{
+    padding: 1rem;
+    text-decoration: none;
+
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

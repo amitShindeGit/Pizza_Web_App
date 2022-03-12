@@ -1,0 +1,13 @@
+.price{
+    border-radius: 4px;
+    background: linear-gradient(to right, #67b26f, #4ca2cd);
+    color: #fff;
+    padding: 1rem;
+    margin-bottom: .8rem;  
+}
+
+.priceText{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
